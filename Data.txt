@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJHF9G2.webp",
+            "title": "Russian Car Driver UAZ HUNTER 1",
+            "text_Content_": "When you think of extreme adventures and thrilling experiences, Russia might not be the first destination that comes to mind. However, there is an intriguing and unexpected element of extreme adventure in Russia, and it involves the Lada Kalina"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJH3yCl.webp",
+            "title": "Russian Car Driver UAZ HUNTER 2",
+            "text_Content_": "The Lada Kalina is not just an ordinary car; it's a symbol of Russian resilience and ingenuity. In this article, we'll explore how the Lada Kalina has become an integral part of the Russian extreme adventure culture"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJH3DTG.webp",
+            "title": "Russian Car Driver UAZ HUNTER 3",
+            "text_Content_": "The Lada Kalina is a compact car produced by the Russian automaker AvtoVAZ. Introduced in 2004, it quickly became a popular choice among Russian motorists due to its affordability, reliability, and adaptability"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJH3mQ4.webp",
+            "title": "Russian Car Driver UAZ HUNTER 4",
+            "text_Content_": "It was designed to withstand the harsh Russian climate and rugged terrain, making it an ideal choice for various extreme adventures"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJH3s2t.webp",
+            "title": "Russian Car Driver UAZ HUNTER 5",
+            "text_Content_": "One of the most exciting aspects of the Lada Kalina is its off-road capabilities. Russia is known for its vast and challenging landscapes, including dense forests, snow-covered mountains, and endless steppes"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJH3LYX.webp",
+            "title": "Russian Car Driver UAZ HUNTER 6",
+            "text_Content_": "For many Russians, an extreme adventure involves taking their Lada Kalina off the beaten path and exploring these untamed terrains"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJH3P4I.webp",
+            "title": "Russian Car Driver UAZ HUNTER 7",
+            "text_Content_": "The car's robust build, high ground clearance, and reliable four-wheel-drive system make it well-suited for tackling tough off-road conditions. Whether it's crossing shallow rivers, navigating through deep mud, or climbing steep hills, the Lada Kalina is up for the challenge"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJH3Zps.webp",
+            "title": "Russian Car Driver UAZ HUNTER 8",
+            "text_Content_": "Adventurous Russians have discovered the joy of off-roading in their Kalinas, often forming off-road clubs to share their experiences"
         }
     ]
 }
